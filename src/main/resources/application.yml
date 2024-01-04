@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost3306/104_crm
+    username: root
+    password: thiwanka_2002
